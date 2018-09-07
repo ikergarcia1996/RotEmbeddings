@@ -15,3 +15,25 @@ Este repositorio almacena el código y resultados del proyecto de fin de grado d
 - **RotEmbeddings**. Meta-embeddings generados usando el método del alineamiento de espacios vectoriales + Media. Estos word embeddings combinan el conocimiento de WordNet, Common Crawl y PPDB, y obtienen un rendimiento al nivel del estado del arte actual. Se pueden usar como representación del significado de palabras o como punto de partida de diferentes algoritmos de aprendizaje automático. 
 
     ![Comparativa entre RotEmbeddings y otros word embeddings](https://raw.githubusercontent.com/ikergarcia1996/RotEmbeddings/master/Resultados%20completos/---%20Resultados%20en%20otros%20formatos%20%28ods,%20xlsx...%29%20---/Comparativa.jpg)
+    
+    
+## Descarga de RotEmbeddings
+El rendimiento de cada versión puede comprobarse aquí: https://github.com/ikergarcia1996/RotEmbeddings/tree/master/Resultados%20completos/RotEmbeddings
+
+-RotEmbeddings: ** Subiendo archivo, se añadirá el enlace en breve **
+-RotEmbeddings + PPA: ** Subiendo archivo, se añadirá el enlace en breve **
+
+# Autor
+
+```
+Iker García Ferrero
+```
+
+# Director del proyecto
+```
+German Rigau i Claramunt
+```
+
+# Documentación
+
+En enlace a la memoria del proyecto se añadirá en breves. 
