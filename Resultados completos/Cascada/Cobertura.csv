@@ -1,0 +1,10 @@
+Embedding,Preprocessing,SimLex999,MTurk-287,MTurk-771,MEN_DEV,MEN_TEST,MEN_ALL,WS353_all,WS353_relatedness,WS353_similarity,WS353_set1,WS353_set2,RG65,VERB-143,MC-30,YP-130,SimVerb-3500,RW
+FastText_CC -> jointcHYB_ENES -> UKB -> Subword_Lexvec -> GLOVE_CC_840B(L2 dimensionwise) -> W2V -> SketchEngine_web -> PDC300,,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+jointcHYB_ENES -> UKB -> Subword_Lexvec -> GLOVE_CC_840B(L2 dimensionwise) -> W2V -> SketchEngine_web -> PDC300,,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+UKB -> Subword_Lexvec -> GLOVE_CC_840B(L2 dimensionwise) -> W2V -> SketchEngine_web -> PDC300,,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+Subword_Lexvec -> GLOVE_CC_840B(L2 dimensionwise) -> W2V -> SketchEngine_web -> PDC300,,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0.9995083579
+GLOVE_CC_840B(L2 dimensionwise) -> W2V -> SketchEngine_web -> PDC300,,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0.9995083579
+W2V -> SketchEngine_web -> PDC300,,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0.9995083579
+SketchEngine_web -> PDC300,,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0.9995083579
+FastText_CC -> jointcHYB_ENES,,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0.9975417896
+ UKB -> Subword_Lexvec,,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0.9936086529
