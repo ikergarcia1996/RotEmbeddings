@@ -20,8 +20,8 @@ Este repositorio almacena el código y resultados del proyecto de fin de grado d
 ## Descarga de RotEmbeddings
 El rendimiento de cada versión puede comprobarse aquí: [Rendimiento RotEmbeddings](https://github.com/ikergarcia1996/RotEmbeddings/tree/master/Resultados%20completos/RotEmbeddings)
 
-- RotEmbeddings: ** Subiendo archivo, se añadirá el enlace en breve **
-- RotEmbeddings + PPA: ** Subiendo archivo, se añadirá el enlace en breve **
+- RotEmbeddings: [Descarga desde OneDrive](https://1drv.ms/u/s!AqTsNQJK2z6LhaUXOdKw8skGijQNPA)
+- RotEmbeddings + PPA: [Descarga desde OneDrive](https://1drv.ms/u/s!AqTsNQJK2z6LhaUWOBFzP7m9bb6ihg)
 
 # Autor
 
