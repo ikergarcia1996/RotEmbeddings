@@ -37,3 +37,9 @@ German Rigau i Claramunt
 # Documentación
 
 En enlace a la memoria del proyecto se añadirá en breves. 
+
+# Referencias
+
+Algunos algoritmos de carga de archivos y la estructura de clases mediante las que se representan los word embeddings han sido adaptados desde S. Jastrzebski et al (2017): [Word Embeddings Benchmarks](https://github.com/kudkudak/word-embeddings-benchmarks).
+
+Algunos algoritmos de normalización han sido adaptados desde M. Artetxe et al (2016): [Vecmap](https://github.com/artetxem/vecmap)
